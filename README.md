@@ -20,25 +20,25 @@ SECRET_KEY=7yCb}Dv60XcF
 
 ## Instala las dependencias:
 
-npm install
+    npm install
 
 ## Uso
 
 Compila el código TypeScript:
 
-npm run typescript
+  npm run typescript
 
 Esto iniciará el proceso de compilación de TypeScript en modo observación (watch).
 
 Inicia el servidor:
 
-npm run dev
+    npm run dev
 
 El servidor se ejecutará en http://localhost:3001.
 
 Puebla la base de datos con información:
 
-node dist/seed.js
+    node dist/seed.js
 
 Esto agregará datos de ejemplo a la base de datos.
 
