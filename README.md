@@ -18,11 +18,11 @@ SECRET_KEY=7yCb}Dv60XcF
 
 2. Abre el archivo `src/db/connection.ts` y actualiza la configuración de la conexión a la base de datos con tu información:
 
-##Instala las dependencias:
+## Instala las dependencias:
 
 npm install
 
-##Uso
+## Uso
 
 Compila el código TypeScript:
 
