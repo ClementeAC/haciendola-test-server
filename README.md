@@ -13,8 +13,8 @@ Antes de ejecutar el servidor, asegúrate de tener instalado lo siguiente:
 
 1. Crea un archivo `.env` en la raíz del proyecto y configura las siguientes variables de entorno:
 
-PORT=3001
-SECRET_KEY=7yCb}Dv60XcF
+        PORT=3001
+        SECRET_KEY=7yCb}Dv60XcF
 
 2. Abre el archivo `src/db/connection.ts` y actualiza la configuración de la conexión a la base de datos con tu información:
 
@@ -26,7 +26,7 @@ SECRET_KEY=7yCb}Dv60XcF
 
 Compila el código TypeScript:
 
-  npm run typescript
+    npm run typescript
 
 Esto iniciará el proceso de compilación de TypeScript en modo observación (watch).
 
